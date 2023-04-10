@@ -1,0 +1,219 @@
+{
+  "title": "MASTER SERVICES AGREEMENT",
+  "summary": "This Master Services Agreement (“Agreement”) is made on _________________(“Effective Date”), between LRNED INC (Outdefine), San Francisco, a Delaware corporation for itself and on behalf of its affiliates, subsidiaries, predecessors, successors (“Outdefine”) and ________________ (“Client”). Outdefine and Client may be referred to in this Agreement individually as a “Party” and collectively as “Parties”.",
+  "sections": [
+    {
+      "title": "1. Services",
+      "contents": [
+        "Outdefine will source, assess, match and process payroll of Freelance Contractors (“Freelance Contractors”) for the Client under this agreement (“Services”) as set forth in each work order executed by the Parties from time to time (“Work Orders”)."
+      ]
+    },
+    {
+      "title": "2. Work Orders",
+      "contents": [
+        "This Agreement does not obligate the Client to engage Outdefine to perform any Services, or Outdefine to perform any Services, until both parties have signed a Work Order and then only for the Services specified in the Work Order. Both parties must sign a Work Order for it to be effective.",
+        "This Agreement governs each Work Order, except that any conflict between the terms of this Agreement and a Work Order will be resolved in favor of the Work Order if the Work Order explicitly states that it is intended to modify the conflicting terms of this Agreement.",
+        "The parties may terminate any individual Work Order without affecting the remaining Agreement or any other Work Order. If Outdefine commences Services for the Client in the absence of a Work Order and Client accepts such Services, this Agreement will nevertheless apply, unless the parties otherwise mutually agree in writing."
+      ]
+    },
+    {
+      "title": "3. Term",
+      "contents": [
+        "This Agreement shall commence as of the Effective Date and shall remain in effect and govern the Services provided until this Agreement is terminated, or the Parties agree otherwise (“Term”)."
+      ]
+    },
+    {
+      "title": "4. Termination",
+      "contents": [
+        "(a) In the event of a breach by either Party of any term of this Agreement or any Work Order, the non-breaching Party may provide the breaching Party with 15 calendar days’ time to cure the breach (“Breach Cure Period”) and if the breaching Party does not cure the breach within the Breach Cure Period, then the non-breaching Party may terminate this Agreement or the Work Order in issue by providing written notice to the breaching Party.",
+        "(b) Either Party may at any time and without cause terminate this Agreement for convenience. Either Party may at any time and without cause terminate any Work Order for convenience upon serving 1 week prior written notice to the other Party.",
+        "(c) Outdefine may terminate this Agreement or any Work Order if the Client fails to make a monetary payment within 15 days of receipt of an invoice. Outdefine shall give the Client a 7 calendar days’ written notice (and amounts owed) and opportunity to cure the breach.",
+        "(d) In the event this Agreement is terminated, Outdefine shall be entitled to the payment of all Fees as provided in Section 5 for work performed as of date of termination, or permitted Expenses as provided in Section 6 actually incurred prior to the effective date of such termination. Notwithstanding termination of this Agreement, the existing Work Orders shall continue in force and effect until completion of Services set out thereunder unless terminated by Parties individually."
+      ]
+    },
+    {
+      "title": "5. Ongoing Contract Fees",
+      "contents": [
+        "If the Freelance Contractor are hired on Outdefine’s payroll, the Client shall every month pay all the necessary expenses of the Contractor (salary, expenses, reimbursement, bonus, etc) (“ Expenses”).",
+        "Client shall pay Outdefine an additional 15% of the Contractor’s Expenses every month (“Fees”) for the Services as set forth in each Work Order.",
+        "Fees are due and payable by Client on a monthly basis within 15 days of receipt of an invoice on the principles of positive attendance. Client shall notify Outdefine of any disputed Fees within 15 days of receipt of an invoice. Invoices will be issued by the 5th day of each month in which the Services are to be rendered or within 5 days of the start of the Work Order. Late payments accrue interest at a rate of the lesser of 1.5% per month or the highest applicable lawful rate."
+      ]
+    },
+    {
+      "title": "6. Direct Hire Fees",
+      "contents": [
+        "If the Client decides to hire any Freelance Contractor directly on their payroll at any time, then the Client will immediately pay Outdefine additional 15% of the Freelance Contractors annual salary as Direct Hire Fees (“Direct Hire Fees”). This also applies to conversion of all Freelance Contractors from Ongoing Contract to Full-Time role directly on the Client’s payroll."
+      ]
+    },
+    {
+      "title": "7. Bypass",
+      "contents": [
+        "If a candidate presented by Outdefine is bypassed during evaluation but subsequently hired directly on full-time, part-time or contract basis or through any subsidiary or its associate within two years of being presented by Outdefine, the Client is responsible to inform Outdefine in writing within 15 days of making the offer and the Client agrees to pay Outdefine the Direct Hire Fees."
+      ]
+    },
+    {
+      "title": "8. Expenses",
+      "contents": [
+        "Client shall reimburse Outdefine any documented out of pocket expenses that are reasonably incurred and necessary for delivery of the Services by the Freelance Contractors (“Expenses''). Unless specified in the applicable Work Order, Client must pre-approve in writing all expenses for reimbursement. Outdefine will support all requests for reimbursement with documentation of the expenses."
+      ]
+    },
+    {
+      "title": "9. Taxes",
+      "contents": [
+        "Client is not liable for taxes relating to Outdefine’s net income. Client shall be responsible for sales, use, or value added taxes it owes due to this Agreement that the law requires Outdefine to collect on the Client’s behalf. The Client shall promptly reimburse Outdefine for such payments, subject to the provision to Client of supporting documentation evidencing such payments."
+      ]
+    },
+    {
+      "title": "10. Work Product, Proprietary Rights",
+      "contents": [
+        "Client is solely and exclusively responsible for facilitating, monitoring and overseeing Freelance Contractors and the work delivered by the Freelance Contractors to the Client in connection with Services, including but not limited to concepts, works, inventions, information, drawings, designs, templates, programs, or software (in source code and object code form), as well as any related documentation and instructions (“Work Product”).",
+        "The Client owns, or upon assignment by the Freelance Contractor will own, all right, title and interest (including, but not limited to, all trademarks, trade secrets, copyrights, patents and any other intellectual property or proprietary rights) (collectively, “Proprietary Rights”) in such Work Product upon full payment of all Fees due and owing, except that Work Product does not include:",
+        "(i) Any of Outdefine’s pre-existing intellectual property rights and any residual rights provided that to the extent any such intellectual property rights are embodied in the Work Product, Outdefine hereby grants Client a non-exclusive, world-wide license to use such intellectual property rights to the extent necessary for the use of the Deliverables;",
+        "(ii) Any inventions or developments made by Outdefine prior to the date of this Agreement;",
+        "(iii) Any improvements Outdefine may make to its own proprietary software or any of its internal processes as a result of any Work Order, provided that such improvements do not infringe Client’s Proprietary Rights.",
+        "(b) Client shall retain ownership of all content and materials provided to Freelance Contractors. Client takes full responsibility for any content (including, but not limited to, images, sound, text and video) provided to Freelance Contractors."
+      ]
+    },
+    {
+      "title": "11. Confidentiality",
+      "contents": [
+        "During the course of carrying out the Services, either Party may have access to information (including commercial terms set out under the Work Orders) that (i) relates to a Party’s past, present, or future research, development, or business activities, proprietary pricing, and any proprietary products, materials, services, or technical knowledge, or (ii) is regarded as confidential by one of the Parties (collectively “Confidential Information”).  In connection therewith, the following subsections shall apply:",
+        "(a) The Confidential Information may be used by a Party only to assist that Party in connection with the Services and not to compete with the other Party;",
+        "(b) Both Parties will protect the confidentiality of the Confidential Information in the same manner that it protects its own confidential information of like kind but in no event in less than a reasonable manner.  Access to the Confidential Information shall be restricted to Outdefine and Client personnel with a need to know and shall not be disclosed to any third party;",
+        "(c) The Confidential Information may not be copied or reproduced without that Party’s prior written consent;",
+        "(d) Unless otherwise expressly authorized in writing by such Party, all Confidential Information made available to the receiving Party, including copies thereof, shall be returned to the disclosing Party upon the first to occur of (i) termination of this Agreement or (ii) request by the disclosing Party; and",
+        "(e) Nothing in this Agreement shall prohibit or limit a Party’s use of information (including, but not limited to concepts, know-how, techniques, and methodology) (i) previously known to it, (ii) independently developed by it, (iii) acquired by it from a third party who is not under any obligation to the disclosing Party or (iv) which is or becomes publicly available through no breach of this Agreement or other wrongful act.",
+        "If either Party becomes legally compelled to disclose any Confidential Information, it shall provide prompt written notice of such requirement to the other Party and reasonable assistance, at the other Party’s sole cost and expense, in opposing such disclosure or seeking a protective order or other limitations on disclosure. If, after providing such notice and assistance, the disclosure is still required by law, only that portion of the Confidential Information that is legally required to be disclosed shall be disclosed and the Party shall use commercially reasonable efforts to obtain assurances from the applicable court or agency that such Confidential Information will be afforded confidential treatment."
+      ]
+    },
+    {
+      "title": "12. Indemnification",
+      "contents": [
+        "Each Party hereby releases and will defend, hold harmless, and indemnify other Party, and/or other Party’s subsidiaries, affiliates, directors, officers, employees, agents, predecessors, successors and assigns (“Indemnified Parties”), from and against any allegation or claim based on, or any loss, damage, settlement, cost, expense and any other liability (including but not limited to reasonable attorneys' fees incurred or necessary to successfully establish the right to indemnification) (collectively, “Claims”), arising from or related to",
+        "(a) Any act or omission by the other Party or its personnel, including, without limitation any breach of this agreement or allegation or claim of negligence, strict liability, wilful misconduct or fraud of other Party or its personnel; or",
+        "(b) Any Claim that Services or Work Product violate, misappropriate or infringe any third party’s copyrights, patents, trade secrets, trademarks or other proprietary rights."
+      ]
+    },
+    {
+      "title": "13. Limitation of Liability",
+      "contents": [
+        "No party will be liable (whether in contract or in tort, including negligence) under any circumstances for any indirect, consequential (including but not limited to lost opportunities or profits), incidental, punitive or other damages, losses, costs or expenses regardless of whether the damage was foreseeable and even if such party has been advised of the possibility of such damages. Each Party’s liability under this agreement will not exceed the fees paid or payable by Client under this agreement during the 12 months preceding the date upon which the related claim arose. Each Party hereto waives any claims that these exclusions deprive such Party of an adequate remedy."
+      ]
+    },
+    {
+      "title": "14. Warranties",
+      "contents": [
+        "(a) Freelance Contractors perform Services in a competent and workmanlike manner in accordance with the level of professional care customarily observed by highly skilled professionals rendering similar services. All Work Product and other materials provided by Freelance Contractors to the Client “as is” and “where is” and may or may not be error free;",
+        "(b) Outdefine will comply with all applicable ordinances, codes, tax laws, standards, laws, rules, regulations and orders of any governmental authority having jurisdiction over Outdefine’s performance of Services, and will hold and fully comply with all required licenses, permits and approvals;",
+        "(c) Outdefine makes no other representations or warranties of any kind except as expressly provided herein. Outdefine disclaims all guarantees, representations and warranties relating somehow to the Services, this Agreement or a Work Order."
+      ]
+    },
+    {
+      "title": "15. Client Warranties",
+      "contents": [
+        "Client represents and warrants that:",
+        "(a) It will comply with all applicable ordinances, codes, tax laws, standards, laws, rules, regulations and orders of any governmental authority having jurisdiction over Client’s obligations under this Agreement;",
+        "(b) It has all rights necessary for its execution and delivery of this agreement and performance of its obligations under this Agreement, and this Agreement is not in conflict with any other agreement to which such Party is a part or by which it is bound."
+      ]
+    },
+    {
+      "title": "16. Data Processing",
+      "contents": [
+        "To the extent the California Consumer Privacy Act is applicable to the Services provided by Outdefine, Outdefine agrees it shall not collect, retain, process, use or disclose any personal information collected on behalf of Client for any purpose (including any commercial purpose) other than the specific purpose of performing the Services specified in this Agreement."
+      ]
+    },
+    {
+      "title": "17. No Exclusivity",
+      "contents": [
+        "Outdefine’s Services, including but not limited to as such are described under the terms of this Agreement, are not and shall not be deemed to be exclusive to Client nor to Client’s affiliates. Outdefine is and shall remain free to render similar services to other entities, and to engage in all such activities as Outdefine deems appropriate, provided that in doing so Outdefine does not breach any covenants or obligation expressly set forth in this Agreement. Outdefine shall not have any duty or obligation to disclose to Client any confidential or proprietary information that Outdefine may acquire about the business, operations or activities of any other person or entity, even if such information could be deemed material and relevant information to the Client."
+      ]
+    },
+    {
+      "title": "18. Non Solicitation",
+      "contents": [
+        "During the term of this Agreement, and for two years following termination of this Agreement, the Client, nor any of its related party, will, directly or indirectly, solicit or, attempt to hire or induce termination of any Outdefine’s Freelance Contractors who were presented by Outdefine to the client or performed any work under this Agreement or Work Order unless the Client executes a Buyout of the personnel."
+      ]
+    },
+    {
+      "title": "19. Independent Contractor Status",
+      "contents": [
+        "The relationship between the Parties is that of independent contractors. Nothing herein shall be deemed or construed to create a joint venture, partnership, agency or employee/employer relationship between the Parties for any purpose, including but not limited to taxes or employee benefits. Each Party will be solely responsible for payment of any and all taxes and insurance as required by law."
+      ]
+    },
+    {
+      "title": "20. Force Majure",
+      "contents": [
+        "Neither Party shall be liable to the other Party, nor be deemed to have defaulted under or breached this Agreement, for any delay or failure in fulfilling or performing any term of this Agreement if it is caused by or results from, whether directly or indirectly, circumstances beyond the affected Party’s reasonable control."
+      ]
+    },
+    {
+      "title": "21. References",
+      "contents": [
+        "Each Party may use the name and logo of the other Party in commercially reasonable marketing, advertising and publicity releases, and describe work completed under this Agreement and any related Work Order in summary and general form, without revealing any of the other Party’s Confidential Information so long as the relationship between the Parties is accurately portrayed, without securing additional written approval of the other Party."
+      ]
+    },
+    {
+      "title": "22. Severability",
+      "contents": [
+        "If any term, condition, or provision in this Agreement is found to be invalid, unlawful or unenforceable to any extent, it will be severed from the Agreement and the remaining terms, conditions and provisions, will continue to be valid and enforceable to the fullest extent permitted by law.  The headings and titles of the Sections and subsections of this Agreement are for reference purposes only and shall not affect the meaning or interpretation of the text herein."
+      ]
+    },
+    {
+      "title": "23. Assignment",
+      "contents": [
+        "Neither Party may assign this Agreement, in whole or in part, without the other Party’s prior written consent (which may be withheld or conditioned), except to any affiliate, or in connection with any merger, consolidation, reorganization, sale of all or substantially all of its assets or similar transaction, provided that the assignee agrees in writing to be bound by all of the terms and conditions of this Agreement and all Work Orders. Subject to the foregoing, this Agreement will be binding on and enforceable by the Parties and their respective successors and permitted assigns. Consent by either Party to assignment in one instance shall not constitute consent by such Party to any other assignment."
+      ]
+    },
+    {
+      "title": "24. Amendments",
+      "contents": [
+        "No modification, amendment, or waiver of this Agreement, or any Work Order shall be effective unless received in writing and duly signed and executed by both Parties."
+      ]
+    },
+    {
+      "title": "25. Governing Law",
+      "contents": [
+        "The Parties agree to submit all disputes between them, except requests for injunctive relief, relating to this Agreement or the alleged breach or interpretation thereof, to binding arbitration. Within thirty (30) days after either Party has notified the other in writing that it is submitting a dispute to arbitration, one arbitrator shall be chosen under the then current Rules of the American Arbitration Association (\"AAA\") pertaining to commercial disputes.",
+        "The arbitration will be held in San Francisco and will be conducted according to the Rules of the AAA. The arbitration award shall be by a written decision containing findings of fact and conclusions of law, shall be final and binding, and may be enforced by any court of competent jurisdiction. The Party prevailing in the arbitration or other legal proceedings is entitled to recover its litigation costs, including reasonable attorney's fees. In no case shall the arbitrator be authorized to award cost and damages otherwise prohibited herein.",
+        "If the dispute is not settled by arbitration at the choice of the Parties agreed mutually, or any Party is dissatisfied with the order of the Arbitrators, then the Parties shall have the right to get the dispute adjudicated by a competent court. This Agreement shall be governed by and construed in accordance with the laws of the state of California without giving effect to any conflict of law rules that would cause the application of laws of any jurisdiction other than those of California.",
+        "Any legal suit, action or proceeding arising out of or related to this Agreement or the Services provided hereunder shall be instituted exclusively in the courts of California in each case, and each Party irrevocably submits to the exclusive jurisdiction of such courts in any such suit, action or proceeding. Service of process, summons, notice or other document by mail to such Party's address set forth herein shall be effective service of process for any suit, action or other proceeding brought in any such court. "
+      ]
+    },
+    {
+      "title": "26. Notices",
+      "contents": [
+        "All notices, requests, consents, claims, demands, waivers, and other communications hereunder shall be in writing and shall be deemed to have been given (a) when delivered by hand (with written confirmation of receipt); (b) when received by the addressee if sent by a nationally recognized overnight courier (receipt requested); (c) on the date sent by facsimile (with confirmation of transmission) if sent during normal business hours of the recipient, and on the next business day if sent after normal business hours of the recipient or (d) on the third day after the date mailed, by certified or registered mail, return receipt requested, postage prepaid. Such communications must be sent to the respective Parties at the addresses indicated below (or at such other addresses for a Party as shall be specified in a notice given in accordance with this Section."
+      ]
+    },
+    {
+      "title": "27. Waiver of Jury Trial",
+      "contents": [
+        "Each Party irrevocably and unconditionally waives any right it may have to a trial by jury in respect of any legal action arising out of or relating to this Agreement or the transactions contemplated hereby."
+      ]
+    },
+    {
+      "title": "28. Injunctive Relief",
+      "contents": [
+        "Each Party acknowledges that a breach by a Party of Section 10 (Work Product, Proprietary Rights) Section 11 (Confidentiality), or Section 18 (Non Solicitation) may cause the non-breaching Party irreparable harm, for which an award of damages would not be adequate compensation and agrees that, in the event of such breach or threatened breach, the non-breaching Party will be entitled to seek equitable relief, including a restraining order, injunctive relief, specific performance and any other relief that may be available from any court, in addition to any other remedy to which the non-breaching Party may be entitled at law or in equity. Such remedies shall not be deemed to be exclusive but shall be in addition to all other remedies available at law or in equity, subject to any express exclusions or limitations in this Agreement to the contrary."
+      ]
+    },
+    {
+      "title": "29. Dispute Expenses",
+      "contents": [
+        "In the event that any action, suit, or other legal or administrative proceeding is instituted or commenced by either Party hereto against the other Party arising out of or related to this Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys' fees and court costs from the non-prevailing Party."
+      ]
+    },
+    {
+      "title": "30. Counterparts",
+      "contents": [
+        "This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall be deemed to be one and the same agreement. A signed copy of this Agreement delivered by facsimile, e-mail or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed copy of this Agreement."
+      ]
+    },
+    {
+      "title": "31. Entire Agreement",
+      "contents": [
+        "This Agreement contains the entire agreement of the Parties and supersedes all prior written or verbal agreements, if any and of whatsoever sort or type, including, but not limited to, all prior discussions between the Parties with respect to the subject matter hereof. The terms and conditions of any and all exhibits, schedules, attachments and contemporaneous or future agreed Work Orders are incorporated herein by reference, and shall constitute indivisible parts of this Agreement as if fully set forth herein today."
+      ]
+    }
+  ]
+}

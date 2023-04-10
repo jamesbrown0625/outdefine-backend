@@ -1,0 +1,30 @@
+export interface IJobsOffer {
+  id?: number;
+  job_id?: number;
+  client_id?: number;
+  company_id?: number;
+  freelancer_id?: number;
+  welcome_note?: string;
+  description?: string;
+  term?: string;
+  experience_level?: string;
+  position?: string;
+  hourly_rate?: number;
+  location?: string;
+  pay_frequency?: string;
+  term_of_hours?: number;
+  term_of_hours_duration?: string;
+  timezone?: string;
+  contract_start?: Date;
+  contract_end?: Date;
+  is_ongoing?: boolean;
+  requirements?: string;
+  duties?: string;
+  primary_skills?: Array<number>;
+  secondary_skills?: Array<number>;
+  response_due?: Date;
+  calendar_link?: string;
+  offered_date?: Date;
+  offer_status?: string;
+  withdraw_reason?: string;
+}

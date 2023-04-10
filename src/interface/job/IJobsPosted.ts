@@ -1,0 +1,34 @@
+export interface IJobsPosted {
+  id?: number
+  client_id?: number
+  recruiter?: number
+  recruitcrm_slug?: string
+  company_id?: number
+  company_name?: string
+  job_title?: string
+  status?: string
+  number_of_hires?: string
+  date_posted?: Date
+  date_last_activated?: Date
+  hourly_max_rate?: number
+  hourly_min_rate?: number
+  location?: string
+  experience_level?: string
+  term?: string
+  weekly_hours?: number
+  description?: string
+  looking_for_description?: string
+  duties?: Array<string>
+  primary_skills?: Array<number>
+  skill_names?: string
+  secondary_skills?: Array<number>
+  visa_sponsor?: boolean
+  timezone?: string
+  contactor_id?: number
+  contact_email?: string
+  company_number?: string
+  website?: string
+  benefits?: string
+  actively_hiring?: boolean
+  draft?: boolean
+}

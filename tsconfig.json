@@ -1,0 +1,47 @@
+{
+  "extends": "./tsconfig.paths.json",
+  "compilerOptions": {
+    "types": [
+      "node",
+      "jest"
+    ],
+    "allowJs": true,
+    "lib": [
+      "ESNext"
+    ],
+    "module": "commonjs",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "noUnusedLocals": false,
+    "noUnusedParameters": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "target": "ES2020",
+    "outDir": "lib",
+    "allowSyntheticDefaultImports": true
+  },
+  "skipLibCheck": true,
+  "include": [
+    "./src",
+    "src/**/*.ts",
+    "serverless.ts",
+    "src/resource/**/*.ts",
+    "src/config/database.js",
+    "src/config/database.js",
+    "tests/libs/api-gateway.test.js"
+  ],
+  "exclude": [
+    // "node_modules/**/*",
+    ".serverless/**/*",
+    ".webpack/**/*",
+    "_warmup/**/*",
+    ".vscode/**/*"
+  ],
+  "ts-node": {
+    "require": [
+      "tsconfig-paths/register"
+    ]
+  }
+}

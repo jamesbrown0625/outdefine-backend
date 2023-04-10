@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@libs": ["src/libs/index"],
+      "@utils/*": ["src/libs/*"],
+      "@config": ["src/config/index"],
+      "@model": ["src/model/index"],
+      "@interface": ["src/interface/index"],
+      "@router": ["src/router/index"],
+      "@resource": ["src/resource/index"],
+      "@service": ["src/service/index"],
+      "@controller/*": ["src/controller/*"]
+    }
+  }
+}
